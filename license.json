@@ -1,1 +1,17 @@
-
+[
+  {
+    "Username": "monako_d989a5e4fd9e93e12c4fcecc26071616",
+    "license-date": "30-12-2026",
+    "banned": false
+  },
+  {
+    "Username": "monako_5d41402abc4b2a76b9719d911017c592",
+    "license-date": "01-01-2023",
+    "banned": false
+  },
+  {
+    "Username": "monako_8877665544332211aabbccddeeff0099",
+    "license-date": "25-08-2025",
+    "banned": true
+  }
+]
